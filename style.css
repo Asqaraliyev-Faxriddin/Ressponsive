@@ -32,11 +32,11 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    border-radius: 15px;
+    border-radius: 36px;
     border: 2px solid yellow;
-    width: 350px;
+    width: 360px;
     z-index: 12;
-    height: 497px;
+    height: 500px;
     background-color: rgb(67, 12, 220);
 }
 
